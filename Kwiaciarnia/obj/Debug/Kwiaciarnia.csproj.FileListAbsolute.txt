@@ -1,0 +1,9 @@
+c:\users\jacek\documents\visual studio 2012\Projects\Kwiaciarnia\Kwiaciarnia\bin\Debug\Kwiaciarnia.exe.config
+c:\users\jacek\documents\visual studio 2012\Projects\Kwiaciarnia\Kwiaciarnia\bin\Debug\Kwiaciarnia.exe
+c:\users\jacek\documents\visual studio 2012\Projects\Kwiaciarnia\Kwiaciarnia\bin\Debug\Kwiaciarnia.pdb
+c:\users\jacek\documents\visual studio 2012\Projects\Kwiaciarnia\Kwiaciarnia\obj\Debug\Kwiaciarnia.csprojResolveAssemblyReference.cache
+c:\users\jacek\documents\visual studio 2012\Projects\Kwiaciarnia\Kwiaciarnia\obj\Debug\Kwiaciarnia.exe
+c:\users\jacek\documents\visual studio 2012\Projects\Kwiaciarnia\Kwiaciarnia\obj\Debug\Kwiaciarnia.pdb
+C:\Users\jsobczak\Documents\Visual Studio 2012\Kwiaciarnia\Kwiaciarnia\bin\Debug\Kwiaciarnia.exe.config
+C:\Users\jsobczak\Documents\Visual Studio 2012\Kwiaciarnia\Kwiaciarnia\obj\Debug\Kwiaciarnia.exe
+C:\Users\jsobczak\Documents\Visual Studio 2012\Kwiaciarnia\Kwiaciarnia\obj\Debug\Kwiaciarnia.pdb
